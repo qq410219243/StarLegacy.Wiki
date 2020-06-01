@@ -23,7 +23,7 @@ Materials: 2 Iron Blocks, 1 Furnace, 1 Sign, 1 Chest
 
 ### Setting Up the Factory
 
-A ship factory takes materials from the multiblock's chest and prints the ship, taking blocks from the chest and placing them down. For the factory to begin taking items from the chest, place a focusing lens in the bottom AND top slot of the furnace.
+A ship factory takes materials from the multiblock's chest and prints the ship, taking blocks from the chest and placing them down. For the factory to begin taking items from the chest, place a focusing lens (prismarine crystal) in the bottom AND top slot of the furnace.
 
 ### Adding a Blueprint to a Ship Factory
 
